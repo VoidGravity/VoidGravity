@@ -54,6 +54,7 @@ Passionate full stack developer with expertise in web development and digital so
 
 ![Programming](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)
 
+
 🤝 **Soft Skills**
 * Teamwork
 * Adaptability
